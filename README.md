@@ -1,4 +1,2 @@
 # event-tube
-An event system.
-
-something
+Simple system for event handling.
